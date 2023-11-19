@@ -1,0 +1,2 @@
+# EKSAMEN
+A/B
